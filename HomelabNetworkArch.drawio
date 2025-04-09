@@ -1,6 +1,6 @@
-<mxfile host="drawio.homelab.akmin.dev" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.8">
   <diagram name="Page-1" id="-jpwgQSEPMJ9XlpZil4z">
-    <mxGraphModel dx="2077" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1928" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-340" y="1980" width="1660" height="1056.65" as="geometry" />
         </mxCell>
         <mxCell id="4XX_WuBOY74GH8NnCH35-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8E8E8;shadow=0;glass=0;arcSize=2;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="100" width="650" height="1190" as="geometry" />
+          <mxGeometry x="60" y="100" width="650" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="4XX_WuBOY74GH8NnCH35-10" value="" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;gradientColor=none;arcSize=4;container=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="114.5" width="670" height="60" as="geometry" />
@@ -540,10 +540,10 @@
         <mxCell id="edovoHmw4j-6_OhMaP0P-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot; style=&quot;font-size: 16px;&quot;&gt;Internet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="-340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RnNnnROB1X_6ZuHooqLw-1" value="Nintendo Switch" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://kagi.com/proxy/Nintendo_Switch_Logo.png?c=37j1R98b7k0Lj2ASiHOX6NO-WDQtFKvVgyQhSkNr9qc8lhz7_3v5LFTDcbV9jZeSy2cmF3YiPR94UjRFFPtUBqusnpo4NV8ax7VIbSwHqfrqEmA0wTdrxqvyPDe4itAM;fontSize=16;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="RnNnnROB1X_6ZuHooqLw-1" value="Nintendo Switch" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://kagi.com/proxy/Nintendo_Switch_Logo.png?c=37j1R98b7k0Lj2ASiHOX6NO-WDQtFKvVgyQhSkNr9qc8lhz7_3v5LFTDcbV9jZeSy2cmF3YiPR94UjRFFPtUBqusnpo4NV8ax7VIbSwHqfrqEmA0wTdrxqvyPDe4itAM;fontSize=16;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-162.76" y="-430" width="91.76" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RnNnnROB1X_6ZuHooqLw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#FFA000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RnNnnROB1X_6ZuHooqLw-1" target="4XX_WuBOY74GH8NnCH35-157">
+        <mxCell id="RnNnnROB1X_6ZuHooqLw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#FFA000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RnNnnROB1X_6ZuHooqLw-1" target="4XX_WuBOY74GH8NnCH35-157" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="168.98" y="-425" as="sourcePoint" />
             <mxPoint x="290.98" y="-40" as="targetPoint" />
@@ -553,6 +553,36 @@
               <mxPoint x="230" y="-210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-8" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="409" y="1240" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="409" y="1180" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-10" value="&lt;div style=&quot;line-height: 100%;&quot; align=&quot;left&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;paperless.homelab.akmin.dev&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(117, 117, 117);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Paperless-ngx&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(117, 117, 117);&quot; face=&quot;Roboto&quot;&gt;Debian 12&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 160, 0);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;192.168.0.114&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1187.5" width="184" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer.svg;" vertex="1" parent="1">
+          <mxGeometry x="416" y="1186.19" width="67.62" height="67.62" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-12" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Paperless Stack&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- portainer:8443&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- paperless-ngx:8010&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- postgres&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- redis&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1260" width="270" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-13" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1360" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1300" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-15" value="&lt;div style=&quot;line-height: 100%;&quot; align=&quot;left&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;mealie.homelab.akmin.dev&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(117, 117, 117);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Mealie&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(117, 117, 117);&quot; face=&quot;Roboto&quot;&gt;Debian 12&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 160, 0);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;192.168.0.115&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="156" y="1307.5" width="184" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer.svg;" vertex="1" parent="1">
+          <mxGeometry x="83" y="1306.19" width="67.62" height="67.62" as="geometry" />
+        </mxCell>
+        <mxCell id="iaeShj0Wyy2rGPNr1voe-17" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;Mealie Stack&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- portainer:8443&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Roboto&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;- mealie:9925&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; face=&quot;Roboto&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
